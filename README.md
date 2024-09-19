@@ -132,3 +132,6 @@ El módulo `TOP_TB` es un banco de pruebas para el módulo `TOP`, que implementa
 ## Simulacion
 En la simulación del diseño digital que se presenta, se ha llevado a cabo un análisis exhaustivo de las señales involucradas con el objetivo de verificar el comportamiento esperado del circuito bajo prueba. A continuación, se muestra una imagen generada por el software Vivado, correspondiente a la salida del módulo TOP del diseño. Este módulo representa la jerarquía más alta en el circuito, integrando diversos componentes que trabajan conjuntamente para ejecutar las operaciones requeridas.
 ![Simulation](/img/simulation.jpg "Simulation")
+
+## Interfaz de la placa BASYS 3
+![Fpga](/img/fpga.jpg "Fpga")
